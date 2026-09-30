@@ -7,9 +7,9 @@ ujs.start();
 import "bootstrap/js/src/tab";
 import "bootstrap/js/src/collapse";
 
-import "../../vendor/diff/diff_match_patch.min";
-import "../../vendor/diff/pretty_text_diff";
-import "../../vendor/fontawesome";
+import "../../../../../../vendor/comfy/javascript/diff/diff_match_patch.min";
+import "../../../../../../vendor/comfy/javascript/diff/pretty_text_diff";
+import "../../../../../../vendor/comfy/javascript/fontawesome";
 
 import "./base";
 import "./categories";

@@ -1,12 +1,12 @@
 import jQuery from "jquery";
 import Rails from "@rails/ujs";
 
-import "../../vendor/redactor";
-import "../../vendor/redactor/filemanager";
-import "../../vendor/redactor/imagemanager";
-import "../../vendor/redactor/definedlinks";
-import "../../vendor/redactor/table";
-import "../../vendor/redactor/video";
+import "../../../../../../vendor/comfy/javascript/redactor";
+import "../../../../../../vendor/comfy/javascript/redactor/filemanager";
+import "../../../../../../vendor/comfy/javascript/redactor/imagemanager";
+import "../../../../../../vendor/comfy/javascript/redactor/definedlinks";
+import "../../../../../../vendor/comfy/javascript/redactor/table";
+import "../../../../../../vendor/comfy/javascript/redactor/video";
 
 (() => {
   const buildRedactorOptions = () => {
